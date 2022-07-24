@@ -1,0 +1,16 @@
+
+.pkg-box{
+    transition: all .5s;
+
+}
+
+.pkg-box:hover{
+    background-color: #0D6EFD;
+    color: white;
+    transform: translate(0px, -10px);
+}
+.pkg-box a:hover{
+    background-color: white;
+    color:black;
+
+}
